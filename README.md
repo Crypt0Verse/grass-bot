@@ -1,16 +1,16 @@
-# 🌿 Grass.io Farming Bot
+# 🌿 Grass X3 Farming Bot
 
-**Farm Grass Points on GetGrass.io at maximum speed and efficiency.**  
+**Farm Mobile Grass version on GetGrass.io at maximum speed and efficiency.**  
 Designed for DePIN explorers, airdrop collectors, and crypto earners who value automation, stability, and scale.
 
 ---
 
 ## ⚙️ Two Versions Available
-
+NEW UPDATE: Our PRO soft has unique feature that allows users to farm the Grass mobile app in x3 mode!
 | Version      | Description                                                                 |
 |--------------|-----------------------------------------------------------------------------|
 | 🆓 Free       | For use with automatically created accounts (no referral support)           |
-| 💎 Pro        | Full access to referral farming |
+| 💎 Pro        | Full access to referral farming and x2/x3 mode  |
 
 📩 **Need help, FAQ or want to upgrade?** Join our [Telegram](https://t.me/+hnLXENxLVDRkYTdi)
 
@@ -20,7 +20,7 @@ Designed for DePIN explorers, airdrop collectors, and crypto earners who value a
 
 - 🔄 Automated account registration  
 - ✉️ Email and wallet binding  
-- 📈 Farming modes: `x1`, `x1.25`, `x2`  
+- 📈 Farming modes: `x1`, `x1.25`, `x2`, `x3`  
 
 ---
 
