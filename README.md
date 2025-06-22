@@ -5,14 +5,13 @@ Designed for DePIN explorers, airdrop collectors, and crypto earners who value a
 
 ---
 
-## ⚙️ Two Versions Available
+## ⚙️ New Version Available
 NEW UPDATE: Our PRO soft has unique feature that allows users to farm the Grass mobile app in x3 mode!
 | Version      | Description                                                                 |
 |--------------|-----------------------------------------------------------------------------|
-| 🆓 Free       | For use with automatically created accounts (no referral support)           |
-| 💎 Pro        | Full access to referral farming and x2/x3 mode  |
+| 💎 Pro        | Full access to account registration, referrals and x3 farm mode  |
 
-📩 **Need help, FAQ or want to upgrade?** Join our [Telegram](https://t.me/+hnLXENxLVDRkYTdi)
+📩 **Need help, full instruction or want to upgrade?** Join our [Telegram](https://t.me/+hnLXENxLVDRkYTdi)
 
 ---
 
@@ -20,7 +19,7 @@ NEW UPDATE: Our PRO soft has unique feature that allows users to farm the Grass 
 
 - 🔄 Automated account registration  
 - ✉️ Email and wallet binding  
-- 📈 Farming modes: `x1`, `x1.25`, `x2`, `x3`  
+- 📈 Farming mode: `x3`  
 
 ---
 
